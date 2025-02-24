@@ -1,6 +1,6 @@
-import ImageView from "./imageView";
-import TableView from "./tableview";
-import UploadView from "./uploadView";
+import ImageView from "./components/imageView";
+import TableView from "./components/tableview";
+import UploadView from "./components/uploadView";
 
 export default function Upload() {
   return (
